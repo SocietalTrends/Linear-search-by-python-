@@ -1,4 +1,4 @@
-# Linear-search-by-python-
+# LinearSearchByPython-
 Linear search by python
 =====
 <p>Pythonによる線形探索アルゴリズムの勉強</p>
