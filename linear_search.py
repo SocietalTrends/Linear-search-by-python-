@@ -4,7 +4,7 @@
 #検索するデータ
 searchlist = [32, 5, 21, 84, 3, 0, 19, 67, 50, 1]
 #検索値
-searchValue = 3
+searchValue = int(input("Please enter number you want to search: \n"))
 #結果値
 findId = -1
 
